@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anastafish
-- 👀 I’m interested in Web development and specificly (Html, Css, JavaScript and React)
+- 👀 I’m interested in Web development and specifically (Html, Css, JavaScript and React)
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on Any related topic! 
 - 📫 How to reach me (Email: anastafish24@gmail.com, LinkedIn: Anas Tafish)
