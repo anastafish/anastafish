@@ -24,7 +24,7 @@ I'm a passionate developer and tech enthusiast. I love creating software and tin
 ### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anas-tafish-665027180/)
-- [Website](https://anas.software)
+- [Portfolio](https://anas.software)
 
 ### GitHub Stats
 
