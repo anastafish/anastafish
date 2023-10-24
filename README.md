@@ -3,23 +3,22 @@
 I'm a passionate developer and tech enthusiast. I love creating software and tinkering with new technologies. This is my little corner of the internet, where I share my projects, ideas, and thoughts.
 
 - 🌱 I'm currently learning and exploring new technologies.
-- 💼 I'm currently working on [Your Current Project](https://github.com/yourusername/yourproject).
+- 💼 I'm currently working on [Social Media App](https://github.com/anastafish/social-media-app).
 - 📫 You can reach me at [anastafish24@gmail.com](mailto:anastafish24@gmail.com).
 
 ### Skills
 
-- <i class="fab fa-html5"></i> Front-End: HTML, CSS, JavaScript, React, Vue.js
-- <i class="fab fa-node-js"></i> Back-End: Node.js, Express.js, Python, Django
-- <i class="fas fa-database"></i> Database: MongoDB, PostgreSQL, MySQL
-- <i class="fas fa-docker"></i> DevOps: Docker, Kubernetes, CI/CD
-- <i class="fab fa-git"></i> Other: Git, REST APIs, GraphQL
+- <i class="fab fa-html5"></i> Front-End: HTML, CSS, JavaScript, React, Tailwindcss
+- <i class="fab fa-node-js"></i> Back-End: Node.js, Express.js, Python, Flask
+- <i class="fas fa-database"></i> Database: MongoDB, Firebase
+- <i class="fab fa-git"></i> Other: Git, REST APIs
 
 
-### What I'm Working On
+### Some of my Projects
 
-- 🚀 [Project 1](https://github.com/yourusername/project1): Brief description of Project 1.
-- 🔥 [Project 2](https://github.com/yourusername/project2): Brief description of Project 2.
-- 💡 [Project 3](https://github.com/yourusername/project3): Brief description of Project 3.
+- 🚀 [Reactive-Train](https://github.com/anastafish/Reactive-Train): Train reservation ticket website.
+- 🔥 [Social Media App](https://github.com/anastafish/social-media-app): This is a social media app built with Next.js and Firebase.
+- 💡 [AnasGPT](https://github.com/anastafish/AnasGPT): AI chat bot on the web.
 
 
 ### Connect with Me
