@@ -8,11 +8,12 @@ I'm a passionate developer and tech enthusiast. I love creating software and tin
 
 ### Skills
 
-- **Front-End:** HTML, CSS, JavaScript, React, Vue.js
-- **Back-End:** Node.js, Express.js, Python, Django
-- **Database:** MongoDB, PostgreSQL, MySQL
-- **DevOps:** Docker, Kubernetes, CI/CD
-- **Other:** Git, REST APIs, GraphQL
+- <i class="fab fa-html5"></i> Front-End: HTML, CSS, JavaScript, React, Vue.js
+- <i class="fab fa-node-js"></i> Back-End: Node.js, Express.js, Python, Django
+- <i class="fas fa-database"></i> Database: MongoDB, PostgreSQL, MySQL
+- <i class="fas fa-docker"></i> DevOps: Docker, Kubernetes, CI/CD
+- <i class="fab fa-git"></i> Other: Git, REST APIs, GraphQL
+
 
 ### What I'm Working On
 
